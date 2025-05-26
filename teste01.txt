@@ -1,1 +1,1 @@
-Vamo formatar esse arquivo para testar a atualização de commmit, e claro, tirar aquele monte de arquivo que veio do formato do bloco de notas anterior.
+teste o2
